@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "190767526026",
+    "firebase_url": "https://cannonball-android-maste-63c9b.firebaseio.com",
+    "project_id": "cannonball-android-maste-63c9b",
+    "storage_bucket": "cannonball-android-maste-63c9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190767526026:android:bb51568ce1b26226",
+        "android_client_info": {
+          "package_name": "io.fabric.samples.cannonball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190767526026-aco8g0g2le1g42216i2ndmro8bt56qkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.fabric.samples.cannonball",
+            "certificate_hash": "698bc9886b228c8ae86de1e2e7474e87db6fad82"
+          }
+        },
+        {
+          "client_id": "190767526026-fk7uf01ms58r5s3r81i2gfnh893dbtvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI6BfanNnvQxkJxbZDyNpzcbJ0Mpjky0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190767526026-fk7uf01ms58r5s3r81i2gfnh893dbtvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
